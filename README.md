@@ -1,3 +1,15 @@
+# LaptopLens
+
+LaptopLens is a full stack web application that combines a laptop store with an AI powered chatbot guide, helping non-technical or technical users find the right laptop based on their needs and budget.
+
+
+## Team Members
+
+| Name | Role |
+|------|------|
+| Daoudo Mohamed | Full Stack Developer |
+
+
 # User Stories
 
 ## User Roles
